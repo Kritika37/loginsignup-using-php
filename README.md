@@ -1,3 +1,4 @@
-#Using php I made this basic signup and login page as my semester project.
+#Simple Signup Login Page using Php
 
-A basic login and signup page for admin and users using php.
+It was made during my 5th Semester as a course Project.
+:)
